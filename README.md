@@ -9,19 +9,6 @@ It provides a complete shopping experience with **product browsing, favorites, c
 
 ---
 
-## 📸 Screenshots
-
-### Homepage  
-![Homepage Screenshot](https://github.com/SriS-08/glamzone/assets/123456789/homepage.png)
-
-### Shop Page  
-![Shop Screenshot](https://github.com/SriS-08/glamzone/assets/123456789/shop-page.png)
-
-### Cart  
-![Cart Screenshot](https://github.com/SriS-08/glamzone/assets/123456789/abcdefg.png)
-
----
-
 ## 📁 Project Structure
 
 ```text
